@@ -1,0 +1,32 @@
+{
+  "name": "curso-de-npm",
+  "version": "1.0.0",
+  "description": "Curso de npm tomado en PLatzi.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillmanncode/Curso-de-NPM.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "css",
+    "html"
+  ],
+  "author": "Enzo Dillmann <dillmanncode1999@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dillmanncode/Curso-de-NPM/issues"
+  },
+  "homepage": "https://github.com/dillmanncode/Curso-de-NPM#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.35.0"
+  }
+}
